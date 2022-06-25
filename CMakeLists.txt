@@ -4,4 +4,8 @@ project(LuoguBook_Base)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(LuoguBook_Base main.cpp)
+
+# Part1
+# Chapter1
 add_executable(HelloLuogu Introduction_to_Cpp/Chapter1/HelloLuogu.cpp)
+add_executable(UimMoney Introduction_to_Cpp/Chapter1/UimMoney.cpp)
