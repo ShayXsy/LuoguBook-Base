@@ -10,3 +10,6 @@ add_executable(LuoguBook_Base main.cpp)
 add_executable(HelloLuogu Introduction_to_Cpp/Chapter1/HelloLuogu.cpp)
 add_executable(UimMoney Introduction_to_Cpp/Chapter1/UimMoney.cpp)
 add_executable(P1000 Introduction_to_Cpp/Chapter1/P1000.cpp)
+
+# Chapter2
+add_executable(apple Introduction_to_Cpp/Chapter2/apple.cpp)
