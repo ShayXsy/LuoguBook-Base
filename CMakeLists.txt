@@ -14,3 +14,4 @@ add_executable(P1000 Introduction_to_Cpp/Chapter1/P1000.cpp)
 # Chapter2
 add_executable(apple Introduction_to_Cpp/Chapter2/apple.cpp)
 add_executable(exchange_variables Introduction_to_Cpp/Chapter2/exchange_variables.cpp)
+add_executable(P5703 Introduction_to_Cpp/Chapter2/P5703.cpp)
