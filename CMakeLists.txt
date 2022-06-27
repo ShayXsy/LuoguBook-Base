@@ -17,3 +17,5 @@ add_executable(exchange_variables Introduction_to_Cpp/Chapter2/exchange_variable
 add_executable(P5703 Introduction_to_Cpp/Chapter2/P5703.cpp)
 add_executable(P5704 Introduction_to_Cpp/Chapter2/P5704.cpp)
 add_executable(P5705 Introduction_to_Cpp/Chapter2/P5705.cpp)
+add_executable(P5706 Introduction_to_Cpp/Chapter2/P5706.cpp)
+add_executable(P5707)
