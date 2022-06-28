@@ -28,4 +28,5 @@ add_executable(P2181 Introduction_to_Cpp/Chapter2/P2181.cpp)
 add_executable(P3954 Introduction_to_Cpp/Chapter2/P3954.cpp)
 
 # Chapter3
-add_executable(P5710 Introduction_to_Cpp/Chapter2/P5710.cpp)
+add_executable(P5710 Introduction_to_Cpp/Chapter3/P5710.cpp)
+add_executable(P5711 Introduction_to_Cpp/Chapter3/P5711.cpp)
