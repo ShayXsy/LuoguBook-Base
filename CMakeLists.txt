@@ -44,3 +44,6 @@ add_executable(P1888 Introduction_to_Cpp/Chapter3/P1888.cpp)
 add_executable(P1046 Introduction_to_Cpp/Chapter3/P1046.cpp)
 add_executable(P1047 Introduction_to_Cpp/Chapter3/P1047.cpp)
 add_executable(P4414 Introduction_to_Cpp/Chapter3/P4414.cpp)
+
+# Chapter4
+add_executable(P5718 Introduction_to_Cpp/Chapter4/P5718.cpp)
