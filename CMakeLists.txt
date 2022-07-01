@@ -48,3 +48,4 @@ add_executable(P4414 Introduction_to_Cpp/Chapter3/P4414.cpp)
 # Chapter4
 add_executable(P5718 Introduction_to_Cpp/Chapter4/P5718.cpp)
 add_executable(P5719 Introduction_to_Cpp/Chapter4/P5719.cpp)
+add_executable(P5720 Introduction_to_Cpp/Chapter4/P5720.cpp)
