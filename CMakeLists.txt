@@ -50,3 +50,4 @@ add_executable(sum_of_factorials Introduction_to_Cpp/Chapter4/sum_of_factorials.
 add_executable(P5718 Introduction_to_Cpp/Chapter4/P5718.cpp)
 add_executable(P5719 Introduction_to_Cpp/Chapter4/P5719.cpp)
 add_executable(P5720 Introduction_to_Cpp/Chapter4/P5720.cpp)
+add_executable(P5721 Introduction_to_Cpp/Chapter4/P5721.cpp)
