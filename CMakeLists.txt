@@ -42,7 +42,7 @@ add_executable(P1422 Introduction_to_Cpp/Chapter3/P1422.cpp)
 add_executable(P1424 Introduction_to_Cpp/Chapter3/P1424.cpp)
 add_executable(P1888 Introduction_to_Cpp/Chapter3/P1888.cpp)
 add_executable(P1046 Introduction_to_Cpp/Chapter3/P1046.cpp)
-add_executable(P1047 Introduction_to_Cpp/Chapter3/P1047.cpp)
+add_executable(P5717 Introduction_to_Cpp/Chapter3/P5717.cpp)
 add_executable(P4414 Introduction_to_Cpp/Chapter3/P4414.cpp)
 
 # Chapter4
