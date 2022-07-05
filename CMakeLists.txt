@@ -69,5 +69,5 @@ add_executable(P1089 Introduction_to_Cpp/Chapter4/P1089.cpp)
 add_executable(P1009 Introduction_to_Cpp/Chapter4/P1009.cpp)
 
 # Chapter 5
-add_executable(P1428 Introduction_to_Cpp/Chapter4/P1428.cpp)
-add_executable(P1427 Introduction_to_Cpp/Chapter4/P1427.cpp)
+add_executable(P1428 Introduction_to_Cpp/Chapter5/P1428.cpp)
+add_executable(P1427 Introduction_to_Cpp/Chapter5/P1427.cpp)
