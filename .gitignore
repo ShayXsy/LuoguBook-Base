@@ -90,8 +90,9 @@ Mkfile.old
 dkms.conf
 
 ### CMake template
-cmake-build-debug-docker
 cmake-build-debug
+cmake-build-debug-docker
+cmake-build-debug-coverage
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
