@@ -90,3 +90,4 @@ add_executable(P1319 Introduction_to_Cpp/Chapter5/P1319.cpp)
 add_executable(P1320 Introduction_to_Cpp/Chapter5/P1320.cpp)
 
 # Chapter 6
+add_executable(P1957 Introduction_to_Cpp/Chapter6/P1957.cpp)
