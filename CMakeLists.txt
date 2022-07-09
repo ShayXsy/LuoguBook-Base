@@ -97,3 +97,4 @@ add_executable(P1200 Introduction_to_Cpp/Chapter6/P1200.cpp)
 add_executable(P1597 Introduction_to_Cpp/Chapter6/P1597.cpp)
 
 # Chapter 7
+add_executable(P5735 Introduction_to_Cpp/Chapter7/P5735.cpp)
